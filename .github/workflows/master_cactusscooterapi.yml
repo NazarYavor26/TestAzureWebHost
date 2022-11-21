@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'cactusscooterapi'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_21121B0CAE5C4B93A4871FB018E926B3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_44B90CE642084B3A846729772BEFB60C }}
           package: .
